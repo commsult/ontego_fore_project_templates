@@ -1,2 +1,2 @@
 # ontego_fore_project_templates
-contains publicly available project templates for Che
+Contains publicly available project templates for Che
