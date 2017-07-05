@@ -1,0 +1,23 @@
+{
+    "appName":"Application Name",
+    "mainMappFlow":"mappflow/entry.mappflow",
+    "primary":{
+        "palette":"light Blue",
+        "base":"500",
+        "hue1":"300",
+        "hue2":"700",
+        "hue3":"900",
+        "contrastDefaultColor":"light"
+    },
+    "accent":{
+        "palette":"lime",
+        "base":"A100",
+        "hue1":"A200",
+        "hue2":"A400",
+        "hue3":"A700",
+        "contrastDefaultColor":"dark"
+    },
+    "javascriptFiles":[
+
+    ]
+}
